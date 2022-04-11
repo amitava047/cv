@@ -1,0 +1,22 @@
+body {
+    background-color: #DDDDDD;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px 30px 30px;
+}
+  
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #EEEEEE;
+    height: 0px;
+    width: 30%;
+}
+
+h1 {
+    color: #FF8C32;
+}
+
+h3 {
+    color: #06113C;
+}
